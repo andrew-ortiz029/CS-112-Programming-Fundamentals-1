@@ -1,0 +1,1 @@
+Please enter the intitial Celcius temperature: Please enter the initial altitude: Please enter the final altitude: The temp in farhenheit at 6752 feet is: &.1lf

@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\Andrew Ortiz\Desktop\Computer Science\Paul Bunyan\Source.c(13,23): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\Andrew Ortiz\Desktop\Computer Science\Paul Bunyan\Source.c(26,31): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Andrew Ortiz\Desktop\Computer Science\Paul Bunyan\Source.c(42,14): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Users\Andrew Ortiz\Desktop\Computer Science\Paul Bunyan\Source.c(51,31): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
