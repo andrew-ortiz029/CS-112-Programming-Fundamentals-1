@@ -1,0 +1,5 @@
+Gallons of fudge ordered: The number of 55 gallon drums is: 33
+The number of 20 gallon drums is: 2
+The number of 10 gallon drums is: 0
+The number of 5 gallon drums is: 1
+The number of 1 gallon drums is: 3

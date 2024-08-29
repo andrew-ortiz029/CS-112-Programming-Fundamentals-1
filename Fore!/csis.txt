@@ -1,0 +1,12 @@
+Enter score on hole number: 1 Enter score on hole number: 2 Enter score on hole number: 3 Enter score on hole number: 4 Enter score on hole number: 5 Enter score on hole number: 6 Enter score on hole number: 7 Enter score on hole number: 8 Enter score on hole number: 9 The score on hole # 1 was: 4    Par is: 4 - Par 
+The score on hole # 2 was: 4    Par is: 5 - Birdie 
+The score on hole # 3 was: 5    Par is: 4 - Bogey! 
+The score on hole # 4 was: 5    Par is: 5 - Par 
+The score on hole # 5 was: 3    Par is: 4 - Birdie 
+The score on hole # 6 was: 3    Par is: 3 - Par 
+The score on hole # 7 was: 5    Par is: 4 - Bogey! 
+The score on hole # 8 was: 3    Par is: 3 - Par 
+The score on hole # 9 was: 5    Par is: 4 - Bogey! 
+
+Number of pars: 4
+Number of bogeys: 3
